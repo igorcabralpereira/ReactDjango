@@ -17,5 +17,5 @@
 
 ## Setup Frontend
 1. cd frontend <br />
-2. npm install --save express <br />
+2. npm install --save <br />
 3. npm start <br />
